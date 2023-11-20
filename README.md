@@ -3,5 +3,5 @@ This repository features the implementation of a modified Selfish Mining techniq
 Feel free to peruse our paper by clicking on the following link.
 [New intelligent defense systems to reduce the risks of Selfish Mining and Double-Spending attacks using Learning Automata.](https://arxiv.org/pdf/2307.00529)
 
-In this implementation, we leverage two novel learning automata (SVDHLA & AVDHLA alongside an intelligent defense system known as "Nik Defense" developed by [Ali Nikhalat-Jahromi](https://github.com/AliNikhalat). All of the mentioned were originally proposed by Nikhalat-Jahromi et al. 
+In this implementation, we leverage two novel learning automata (SVDHLA & AVDHLA) alongside an intelligent defense system known as "Nik Defense" developed by [Ali Nikhalat-Jahromi](https://github.com/AliNikhalat). All of the mentioned were originally proposed by Nikhalat-Jahromi et al. 
 
